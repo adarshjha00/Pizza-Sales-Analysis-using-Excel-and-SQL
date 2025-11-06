@@ -1,1 +1,1 @@
-# Pizza-Sales-Analysis-using-Power-BI-and-SQL
+# Pizza-Sales-Analysis-using-Excel-and-SQL
